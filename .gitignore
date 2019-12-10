@@ -1,0 +1,9 @@
+#ignore pycache
+__pycache__*
+
+#ignore data
+data*
+
+#ingore pickle and th
+*.pickle
+*.pth
