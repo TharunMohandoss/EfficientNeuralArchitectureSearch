@@ -16,3 +16,6 @@ python3 train.py
 
 ## Reuse policy : 
 This is the first implementation of NAS framework in pytorch( AFAIK ). Do credit this work if you reuse this code!
+
+## Results : 
+The results are detailed in the project report(Find the pdf file in the repository itself).
