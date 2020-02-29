@@ -1,5 +1,4 @@
 # EfficientNeuralArchitectureSearch
-CS394R Final Project : Searching Efficient Neural Architectures using Reinforcement Learning
 
 ## Instructions : 
 ```
@@ -14,3 +13,6 @@ python3 train.py
 ## Contributors :
 * Tharun Mohandoss 
 * Surya S Dwivedi ( https://github.com/surya2191997 ) 
+
+## Reuse policy : 
+This is the first implementation of NAS framework in pytorch( AFAIK ). Do credit this work if you reuse this code!
